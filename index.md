@@ -11,7 +11,7 @@ description: The unified Generalist VLA Agent capable of performing perception, 
 **Workshop / Challenge Info:**
 
 <div class="container">
-  <img class="rounded-rect" src="RS0.png" alt="Challenge Overview Figure"/>
+  <img class="rounded-rect" src="/RS0.png" alt="Challenge Overview Figure"/>
 </div>
 {: .text-center}
 
@@ -32,7 +32,7 @@ Autonomous driving systems have achieved remarkable proficiency in structured en
 To bridge this gap, this challenge leverages the **Impromptu VLA Dataset**, a large-scale collection of roughly 80,000 clips curated specifically to capture diverse and challenging unstructured scenarios. Participants are invited to develop **Vision-Language-Action (VLA)** models that can not only perceive and reason about complex environments but also generate safe and accurate planning trajectories.
 
 <div class="container">
-  <img class="rounded-rect" src="RS1.png" alt="Challenge Overview Figure"/>
+  <img class="rounded-rect" src="/RS1.png" alt="Challenge Overview Figure"/>
 </div>
 {: .text-center}
 
