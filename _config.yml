@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 markdown: kramdown
-baseurl: "/WACV_1" # 确保与你的新仓库名一致
+baseurl: "/WACV_2" # 确保与你的新仓库名一致
 url: "https://dubolin999.github.io"
 
 # 自定义配置
